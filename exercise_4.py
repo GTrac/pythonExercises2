@@ -1,3 +1,4 @@
+#takes in user input until 5 valid int inputs are entered and returns the sum of valid inputs
 def valid_input():
     inputs = []
     while(len(inputs)<5):
